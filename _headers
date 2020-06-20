@@ -1,0 +1,35 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+/component---node-modules-lekoarts-gatsby-theme-cara-src-templates-cara-tsx-86b872e41d99974f5195.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---node-modules-gatsby-plugin-offline-app-shell-js-863c115a171cf8492c38.js
+  Cache-Control: public, max-age=31536000, immutable
+/webpack-runtime-03a21eeea45deea747a7.js
+  Cache-Control: public, max-age=31536000, immutable
+/framework-0f7f24c8879fa60fb4d3.js
+  Cache-Control: public, max-age=31536000, immutable
+/app-1e7d54bdfde6c9a29092.js
+  Cache-Control: public, max-age=31536000, immutable
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/sw.js
+  Cache-Control: no-cache
+/gatsby-site/
+  Link: </gatsby-site/webpack-runtime-03a21eeea45deea747a7.js>; rel=preload; as=script
+  Link: </gatsby-site/framework-0f7f24c8879fa60fb4d3.js>; rel=preload; as=script
+  Link: </gatsby-site/app-1e7d54bdfde6c9a29092.js>; rel=preload; as=script
+  Link: </gatsby-site/component---node-modules-lekoarts-gatsby-theme-cara-src-templates-cara-tsx-86b872e41d99974f5195.js>; rel=preload; as=script
+  Link: </gatsby-site/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </gatsby-site/page-data/index/page-data.json>; rel=preload; as=fetch; crossorigin
+/gatsby-site/offline-plugin-app-shell-fallback/
+  Link: </gatsby-site/webpack-runtime-03a21eeea45deea747a7.js>; rel=preload; as=script
+  Link: </gatsby-site/framework-0f7f24c8879fa60fb4d3.js>; rel=preload; as=script
+  Link: </gatsby-site/app-1e7d54bdfde6c9a29092.js>; rel=preload; as=script
+  Link: </gatsby-site/component---node-modules-gatsby-plugin-offline-app-shell-js-863c115a171cf8492c38.js>; rel=preload; as=script
+  Link: </gatsby-site/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </gatsby-site/page-data/offline-plugin-app-shell-fallback/page-data.json>; rel=preload; as=fetch; crossorigin
